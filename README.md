@@ -12,6 +12,6 @@ Game sederhana dengan Vanilla Javascript
 
 ##### Dukung kami dengan mengikuti :
 - Instagram : www.instagram.com/droid_code
-- Facebook : web.facebook.com/droidcode12
+- Facebook : https://web.facebook.com/droidcode12
 
 Copyright (c) 2021 Fitra Ilyasa
