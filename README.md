@@ -11,7 +11,7 @@ Game sederhana dengan Vanilla Javascript
 * mengatur interval waktu dan hitung mundur
 
 ##### Dukung kami dengan mengikuti :
-Instagram : www.instagram.com/droid_code
-Facebook : m.facebook.com/droidcode12
+- Instagram : www.instagram.com/droid_code
+- Facebook : m.facebook.com/droidcode12
 
 Copyright (c) 2021 Fitra Ilyasa
